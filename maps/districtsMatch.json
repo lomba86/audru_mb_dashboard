@@ -1,0 +1,2426 @@
+[
+  {
+    "id": "DE000104",
+    "name": "Capital Federal",
+    "provinceId": "1",
+    "osm_id": 3082668
+  },
+  {
+    "id": "DE000450",
+    "name": "Belgrano",
+    "provinceId": "2",
+    "osm_id": 3549049
+  },
+  { "id": "DE000451", "name": "Caseros", "provinceId": "2", "osm_id": 3447346 },
+  {
+    "id": "DE000452",
+    "name": "Castellanos",
+    "provinceId": "2",
+    "osm_id": 3587828
+  },
+  {
+    "id": "DE000453",
+    "name": "Constitucion",
+    "provinceId": "2",
+    "osm_id": 3447347
+  },
+  { "id": "DE000454", "name": "Garay", "provinceId": "2", "osm_id": 3564343 },
+  {
+    "id": "DE000455",
+    "name": "General Lopez",
+    "provinceId": "2",
+    "osm_id": 3447348
+  },
+  {
+    "id": "DE000456",
+    "name": "General Obligado",
+    "provinceId": "2",
+    "osm_id": 3593995
+  },
+  { "id": "DE000457", "name": "Iriondo", "provinceId": "2", "osm_id": 3549050 },
+  {
+    "id": "DE000458",
+    "name": "La Capital",
+    "provinceId": "2",
+    "osm_id": 3550091
+  },
+  {
+    "id": "DE000459",
+    "name": "Las Colonias",
+    "provinceId": "2",
+    "osm_id": 3587829
+  },
+  {
+    "id": "DE000460",
+    "name": "Nueve De Julio",
+    "provinceId": "2",
+    "osm_id": 3549489
+  },
+  { "id": "DE000461", "name": "Rosario", "provinceId": "2", "osm_id": 3442021 },
+  {
+    "id": "DE000462",
+    "name": "San Cristobal",
+    "provinceId": "2",
+    "osm_id": 3550090
+  },
+  {
+    "id": "DE000463",
+    "name": "San Javier",
+    "provinceId": "2",
+    "osm_id": 3593996
+  },
+  {
+    "id": "DE000464",
+    "name": "San Jeronimo",
+    "provinceId": "2",
+    "osm_id": 3587830
+  },
+  {
+    "id": "DE000465",
+    "name": "San Justo",
+    "provinceId": "2",
+    "osm_id": 3473288
+  },
+  {
+    "id": "DE000466",
+    "name": "San Lorenzo",
+    "provinceId": "2",
+    "osm_id": 3442043
+  },
+  {
+    "id": "DE000467",
+    "name": "San Martin",
+    "provinceId": "2",
+    "osm_id": 3587831
+  },
+  { "id": "DE000468", "name": "Vera", "provinceId": "2", "osm_id": 3587832 },
+  {
+    "id": "DE000160",
+    "name": "Calamuchita",
+    "provinceId": "3",
+    "osm_id": 1868392
+  },
+  { "id": "DE000161", "name": "Capital", "provinceId": "3", "osm_id": 1862787 },
+  { "id": "DE000162", "name": "Colon", "provinceId": "3", "osm_id": 1862788 },
+  {
+    "id": "DE000163",
+    "name": "Cruz Del Eje",
+    "provinceId": "3",
+    "osm_id": 1900726
+  },
+  {
+    "id": "DE000164",
+    "name": "General Roca",
+    "provinceId": "3",
+    "osm_id": 1924313
+  },
+  {
+    "id": "DE000165",
+    "name": "General San Martin",
+    "provinceId": "3",
+    "osm_id": 1934100
+  },
+  {
+    "id": "DE000166",
+    "name": "Ischilin",
+    "provinceId": "3",
+    "osm_id": 1903605
+  },
+  {
+    "id": "DE000167",
+    "name": "Juarez Celman",
+    "provinceId": "3",
+    "osm_id": 1934101
+  },
+  {
+    "id": "DE000168",
+    "name": "Marcos Juarez",
+    "provinceId": "3",
+    "osm_id": 1994997
+  },
+  { "id": "DE000169", "name": "Minas", "provinceId": "3", "osm_id": 1900727 },
+  { "id": "DE000170", "name": "Pocho", "provinceId": "3", "osm_id": 1903606 },
+  {
+    "id": "DE000171",
+    "name": "Presidente R S Peña",
+    "provinceId": "3",
+    "osm_id": 1924322
+  },
+  { "id": "DE000172", "name": "Punilla", "provinceId": "3", "osm_id": 1870331 },
+  {
+    "id": "DE000173",
+    "name": "Rio Cuarto",
+    "provinceId": "3",
+    "osm_id": 1868393
+  },
+  {
+    "id": "DE000174",
+    "name": "Rio Primero",
+    "provinceId": "3",
+    "osm_id": 1870732
+  },
+  {
+    "id": "DE000175",
+    "name": "Rio Seco",
+    "provinceId": "3",
+    "osm_id": 2091238
+  },
+  {
+    "id": "DE000176",
+    "name": "Rio Segundo",
+    "provinceId": "3",
+    "osm_id": 1934102
+  },
+  {
+    "id": "DE000177",
+    "name": "San Alberto",
+    "provinceId": "3",
+    "osm_id": 1903607
+  },
+  {
+    "id": "DE000178",
+    "name": "San Javier",
+    "provinceId": "3",
+    "osm_id": 1869129
+  },
+  {
+    "id": "DE000179",
+    "name": "San Justo",
+    "provinceId": "3",
+    "osm_id": 1994998
+  },
+  {
+    "id": "DE000180",
+    "name": "Santa Maria",
+    "provinceId": "3",
+    "osm_id": 7084076
+  },
+  {
+    "id": "DE000181",
+    "name": "Sobremonte",
+    "provinceId": "3",
+    "osm_id": 2091239
+  },
+  {
+    "id": "DE000182",
+    "name": "Tercero Arriba",
+    "provinceId": "3",
+    "osm_id": 1868394
+  },
+  { "id": "DE000183", "name": "Totoral", "provinceId": "3", "osm_id": 1870332 },
+  { "id": "DE000184", "name": "Tulumba", "provinceId": "3", "osm_id": 1903608 },
+  { "id": "DE000185", "name": "Union", "provinceId": "3", "osm_id": 1934103 },
+  {
+    "id": "DE000186",
+    "name": "Bella Vista",
+    "provinceId": "4",
+    "osm_id": 3125242
+  },
+  {
+    "id": "DE000187",
+    "name": "Beron De Astrada",
+    "provinceId": "4",
+    "osm_id": 3126747
+  },
+  { "id": "DE000188", "name": "Capital", "provinceId": "4", "osm_id": 3127262 },
+  {
+    "id": "DE000189",
+    "name": "Concepcion",
+    "provinceId": "4",
+    "osm_id": 3127986
+  },
+  {
+    "id": "DE000190",
+    "name": "Curuzu Cuatia",
+    "provinceId": "4",
+    "osm_id": 3134515
+  },
+  {
+    "id": "DE000191",
+    "name": "Empedrado",
+    "provinceId": "4",
+    "osm_id": 3125243
+  },
+  { "id": "DE000192", "name": "Esquina", "provinceId": "4", "osm_id": 3134516 },
+  {
+    "id": "DE000193",
+    "name": "General Alvear",
+    "provinceId": "4",
+    "osm_id": 3138395
+  },
+  {
+    "id": "DE000194",
+    "name": "General Paz",
+    "provinceId": "4",
+    "osm_id": 3126748
+  },
+  { "id": "DE000195", "name": "Goya", "provinceId": "4", "osm_id": 3134517 },
+  { "id": "DE000196", "name": "Itati", "provinceId": "4", "osm_id": 3126745 },
+  {
+    "id": "DE000197",
+    "name": "Ituzaingo",
+    "provinceId": "4",
+    "osm_id": 3127987
+  },
+  { "id": "DE000198", "name": "Lavalle", "provinceId": "4", "osm_id": 3125244 },
+  {
+    "id": "DE000199",
+    "name": "Mburucuya",
+    "provinceId": "4",
+    "osm_id": 3127988
+  },
+  {
+    "id": "DE000200",
+    "name": "Mercedes",
+    "provinceId": "4",
+    "osm_id": 3127989
+  },
+  {
+    "id": "DE000201",
+    "name": "Monte Caseros",
+    "provinceId": "4",
+    "osm_id": 3134518
+  },
+  {
+    "id": "DE000202",
+    "name": "Paso De Los Libres",
+    "provinceId": "4",
+    "osm_id": 3134519
+  },
+  { "id": "DE000203", "name": "Saladas", "provinceId": "4", "osm_id": 3125245 },
+  {
+    "id": "DE000204",
+    "name": "San Cosme",
+    "provinceId": "4",
+    "osm_id": 3127264
+  },
+  {
+    "id": "DE000205",
+    "name": "San Luis Del Palmar",
+    "provinceId": "4",
+    "osm_id": 3126746
+  },
+  {
+    "id": "DE000206",
+    "name": "San Martin",
+    "provinceId": "4",
+    "osm_id": 3138398
+  },
+  {
+    "id": "DE000207",
+    "name": "San Miguel",
+    "provinceId": "4",
+    "osm_id": 3127990
+  },
+  {
+    "id": "DE000208",
+    "name": "San Roque",
+    "provinceId": "4",
+    "osm_id": 3125246
+  },
+  {
+    "id": "DE000209",
+    "name": "Santo Tome",
+    "provinceId": "4",
+    "osm_id": 3138399
+  },
+  { "id": "DE000210", "name": "Sauce", "provinceId": "4", "osm_id": 3134520 },
+  {
+    "id": "DE000001",
+    "name": "Adolfo Alsina",
+    "provinceId": "5",
+    "osm_id": 2580751
+  },
+  { "id": "DE000002", "name": "Alberti", "provinceId": "5", "osm_id": 2559862 },
+  {
+    "id": "DE000003",
+    "name": "Almirante Brown",
+    "provinceId": "5",
+    "osm_id": 2402606
+  },
+  {
+    "id": "DE000004",
+    "name": "Avellaneda",
+    "provinceId": "5",
+    "osm_id": 2146109
+  },
+  {
+    "id": "DE000005",
+    "name": "Ayacucho",
+    "provinceId": "5",
+    "osm_id": 2612454
+  },
+  { "id": "DE000006", "name": "Azul", "provinceId": "5", "osm_id": 2609604 },
+  {
+    "id": "DE000007",
+    "name": "Bahia Blanca",
+    "provinceId": "5",
+    "osm_id": 2582799
+  },
+  {
+    "id": "DE000008",
+    "name": "Balcarce",
+    "provinceId": "5",
+    "osm_id": 2599725
+  },
+  {
+    "id": "DE000009",
+    "name": "Baradero",
+    "provinceId": "5",
+    "osm_id": 2453281
+  },
+  {
+    "id": "DE000010",
+    "name": "Arrecifes",
+    "provinceId": "5",
+    "osm_id": 2455558
+  },
+  {
+    "id": "DE000011",
+    "name": "Benito Juarez",
+    "provinceId": "5",
+    "osm_id": 2607483
+  },
+  {
+    "id": "DE000012",
+    "name": "Berazategui",
+    "provinceId": "5",
+    "osm_id": 2345171
+  },
+  { "id": "DE000013", "name": "Berisso", "provinceId": "5", "osm_id": 2435142 },
+  { "id": "DE000014", "name": "Bolivar", "provinceId": "5", "osm_id": 2597622 },
+  { "id": "DE000015", "name": "Bragado", "provinceId": "5", "osm_id": 2559813 },
+  {
+    "id": "DE000016",
+    "name": "Brandsen",
+    "provinceId": "5",
+    "osm_id": 2499213
+  },
+  { "id": "DE000017", "name": "Campana", "provinceId": "5", "osm_id": 2451540 },
+  {
+    "id": "DE000018",
+    "name": "Cañuelas",
+    "provinceId": "5",
+    "osm_id": 2498288
+  },
+  {
+    "id": "DE000019",
+    "name": "Capitan Sarmiento",
+    "provinceId": "5",
+    "osm_id": 2455548
+  },
+  {
+    "id": "DE000020",
+    "name": "Carlos Casares",
+    "provinceId": "5",
+    "osm_id": 2571699
+  },
+  {
+    "id": "DE000021",
+    "name": "Carlos Tejedor",
+    "provinceId": "5",
+    "osm_id": 2564066
+  },
+  {
+    "id": "DE000022",
+    "name": "Carmen De Areco",
+    "provinceId": "5",
+    "osm_id": 2463037
+  },
+  {
+    "id": "DE000023",
+    "name": "Castelli",
+    "provinceId": "5",
+    "osm_id": 2613311
+  },
+  {
+    "id": "DE000024",
+    "name": "Chacabuco",
+    "provinceId": "5",
+    "osm_id": 2479591
+  },
+  {
+    "id": "DE000025",
+    "name": "Chascomus",
+    "provinceId": "5",
+    "osm_id": 2516826
+  },
+  {
+    "id": "DE000026",
+    "name": "Chivilcoy",
+    "provinceId": "5",
+    "osm_id": 2484220
+  },
+  { "id": "DE000027", "name": "Colon", "provinceId": "5", "osm_id": 2459899 },
+  {
+    "id": "DE000028",
+    "name": "Coronel Dorrego",
+    "provinceId": "5",
+    "osm_id": 2589847
+  },
+  {
+    "id": "DE000029",
+    "name": "Coronel L. Rosales",
+    "provinceId": "5",
+    "osm_id": 2584648
+  },
+  {
+    "id": "DE000030",
+    "name": "Coronel Pringles",
+    "provinceId": "5",
+    "osm_id": 2592479
+  },
+  {
+    "id": "DE000031",
+    "name": "Coronel Suarez",
+    "provinceId": "5",
+    "osm_id": 2594942
+  },
+  {
+    "id": "DE000032",
+    "name": "Daireaux",
+    "provinceId": "5",
+    "osm_id": 2595082
+  },
+  { "id": "DE000033", "name": "Dolores", "provinceId": "5", "osm_id": 2616801 },
+  {
+    "id": "DE000034",
+    "name": "Ensenada",
+    "provinceId": "5",
+    "osm_id": 2401891
+  },
+  { "id": "DE000035", "name": "Escobar", "provinceId": "5", "osm_id": 2443300 },
+  {
+    "id": "DE000036",
+    "name": "Esteban Echeverria",
+    "provinceId": "5",
+    "osm_id": 2401204
+  },
+  {
+    "id": "DE000037",
+    "name": "Exalt De La Cruz",
+    "provinceId": "5",
+    "osm_id": 2452336
+  },
+  { "id": "DE000038", "name": "Ezeiza", "provinceId": "5", "osm_id": 2447377 },
+  {
+    "id": "DE000039",
+    "name": "Florencio Varela",
+    "provinceId": "5",
+    "osm_id": 2404193
+  },
+  {
+    "id": "DE000040",
+    "name": "Florentino Ameghino",
+    "provinceId": "5",
+    "osm_id": 2557534
+  },
+  {
+    "id": "DE000041",
+    "name": "General Alvarado",
+    "provinceId": "5",
+    "osm_id": 2621700
+  },
+  {
+    "id": "DE000042",
+    "name": "General Alvear",
+    "provinceId": "5",
+    "osm_id": 2599047
+  },
+  {
+    "id": "DE000043",
+    "name": "General Arenales",
+    "provinceId": "5",
+    "osm_id": 2475018
+  },
+  {
+    "id": "DE000044",
+    "name": "General Belgrano",
+    "provinceId": "5",
+    "osm_id": 2599608
+  },
+  {
+    "id": "DE000045",
+    "name": "General Guido",
+    "provinceId": "5",
+    "osm_id": 2614831
+  },
+  {
+    "id": "DE000046",
+    "name": "General Lamadrid",
+    "provinceId": "5",
+    "osm_id": 2597520
+  },
+  {
+    "id": "DE000047",
+    "name": "General Las Heras",
+    "provinceId": "5",
+    "osm_id": 1934039
+  },
+  {
+    "id": "DE000048",
+    "name": "General Lavalle",
+    "provinceId": "5",
+    "osm_id": 2621565
+  },
+  {
+    "id": "DE000049",
+    "name": "General Madariaga",
+    "provinceId": "5",
+    "osm_id": 2621593
+  },
+  {
+    "id": "DE000050",
+    "name": "General Paz",
+    "provinceId": "5",
+    "osm_id": 2512688
+  },
+  {
+    "id": "DE000051",
+    "name": "General Pinto",
+    "provinceId": "5",
+    "osm_id": 2554695
+  },
+  {
+    "id": "DE000052",
+    "name": "General Pueyrredon",
+    "provinceId": "5",
+    "osm_id": 2621716
+  },
+  {
+    "id": "DE000053",
+    "name": "General Rodriguez",
+    "provinceId": "5",
+    "osm_id": 2431653
+  },
+  {
+    "id": "DE000054",
+    "name": "General San Martin",
+    "provinceId": "5",
+    "osm_id": 1719022
+  },
+  {
+    "id": "DE000055",
+    "name": "General Sarmiento",
+    "provinceId": "5",
+    "osm_id": 2455548
+  },
+  {
+    "id": "DE000056",
+    "name": "General Viamonte",
+    "provinceId": "5",
+    "osm_id": 2559810
+  },
+  {
+    "id": "DE000057",
+    "name": "General Villegas",
+    "provinceId": "5",
+    "osm_id": 2557559
+  },
+  {
+    "id": "DE000058",
+    "name": "Gonzalez Chaves",
+    "provinceId": "5",
+    "osm_id": 2597664
+  },
+  { "id": "DE000059", "name": "Guamini", "provinceId": "5", "osm_id": 2593543 },
+  {
+    "id": "DE000060",
+    "name": "Hipolito Yrigoyen",
+    "provinceId": "5",
+    "osm_id": 2580596
+  },
+  {
+    "id": "DE000061",
+    "name": "Hurlingham",
+    "provinceId": "5",
+    "osm_id": 2026612
+  },
+  {
+    "id": "DE000062",
+    "name": "Ituzaingo",
+    "provinceId": "5",
+    "osm_id": 2018776
+  },
+  {
+    "id": "DE000063",
+    "name": "Jose C Paz",
+    "provinceId": "5",
+    "osm_id": 2430431
+  },
+  { "id": "DE000064", "name": "Junin", "provinceId": "5", "osm_id": 2519224 },
+  {
+    "id": "DE000065",
+    "name": "La Matanza",
+    "provinceId": "5",
+    "osm_id": 1749088
+  },
+  {
+    "id": "DE000066",
+    "name": "La Plata",
+    "provinceId": "5",
+    "osm_id": 2499263
+  },
+  { "id": "DE000067", "name": "Lanus", "provinceId": "5", "osm_id": 1421519 },
+  { "id": "DE000068", "name": "Laprida", "provinceId": "5", "osm_id": 2598224 },
+  {
+    "id": "DE000069",
+    "name": "Las Flores",
+    "provinceId": "5",
+    "osm_id": 2611521
+  },
+  {
+    "id": "DE000070",
+    "name": "Leandro N Alem",
+    "provinceId": "5",
+    "osm_id": 2554600
+  },
+  { "id": "DE000071", "name": "Lincoln", "provinceId": "5", "osm_id": 2559673 },
+  { "id": "DE000072", "name": "Loberia", "provinceId": "5", "osm_id": 2599688 },
+  { "id": "DE000073", "name": "Lobos", "provinceId": "5", "osm_id": 2497992 },
+  {
+    "id": "DE000074",
+    "name": "Lomas De Zamora",
+    "provinceId": "5",
+    "osm_id": 2400639
+  },
+  { "id": "DE000075", "name": "Lujan", "provinceId": "5", "osm_id": 2355138 },
+  {
+    "id": "DE000076",
+    "name": "Magdalena",
+    "provinceId": "5",
+    "osm_id": 2512537
+  },
+  { "id": "DE000077", "name": "Maipu", "provinceId": "5", "osm_id": 2616837 },
+  {
+    "id": "DE000078",
+    "name": "Malvinas Argentinas",
+    "provinceId": "5",
+    "osm_id": 2430452
+  },
+  {
+    "id": "DE000079",
+    "name": "Mar Chiquita",
+    "provinceId": "5",
+    "osm_id": 2621605
+  },
+  {
+    "id": "DE000080",
+    "name": "Marcos Paz",
+    "provinceId": "5",
+    "osm_id": 2354919
+  },
+  {
+    "id": "DE000081",
+    "name": "Mercedes",
+    "provinceId": "5",
+    "osm_id": 2457634
+  },
+  { "id": "DE000082", "name": "Merlo", "provinceId": "5", "osm_id": 2431612 },
+  { "id": "DE000083", "name": "Monte", "provinceId": "5", "osm_id": 2512599 },
+  {
+    "id": "DE000084",
+    "name": "Monte Hermoso",
+    "provinceId": "5",
+    "osm_id": 2584665
+  },
+  { "id": "DE000085", "name": "Moreno", "provinceId": "5", "osm_id": 2431386 },
+  { "id": "DE000086", "name": "Moron", "provinceId": "5", "osm_id": 1767342 },
+  {
+    "id": "DE000087",
+    "name": "Munic U De La Costa",
+    "provinceId": "5",
+    "osm_id": 2621507
+  },
+  { "id": "DE000088", "name": "Navarro", "provinceId": "5", "osm_id": 2484110 },
+  {
+    "id": "DE000089",
+    "name": "Necochea",
+    "provinceId": "5",
+    "osm_id": 2598290
+  },
+  {
+    "id": "DE000090",
+    "name": "Nueve De Julio",
+    "provinceId": "5",
+    "osm_id": 2571745
+  },
+  {
+    "id": "DE000091",
+    "name": "Olavarria",
+    "provinceId": "5",
+    "osm_id": 2607600
+  },
+  {
+    "id": "DE000092",
+    "name": "Patagones",
+    "provinceId": "5",
+    "osm_id": 2582656
+  },
+  { "id": "DE000093", "name": "Pehuajo", "provinceId": "5", "osm_id": 2565320 },
+  {
+    "id": "DE000094",
+    "name": "Pellegrini",
+    "provinceId": "5",
+    "osm_id": 2563454
+  },
+  {
+    "id": "DE000095",
+    "name": "Pergamino",
+    "provinceId": "5",
+    "osm_id": 2459663
+  },
+  { "id": "DE000096", "name": "Pila", "provinceId": "5", "osm_id": 2612278 },
+  { "id": "DE000097", "name": "Pilar", "provinceId": "5", "osm_id": 2431954 },
+  { "id": "DE000098", "name": "Pinamar", "provinceId": "5", "osm_id": 2621525 },
+  { "id": "DE000099", "name": "Puan", "provinceId": "5", "osm_id": 2581390 },
+  { "id": "DE000100", "name": "Quilmes", "provinceId": "5", "osm_id": 2068012 },
+  { "id": "DE000101", "name": "Ramallo", "provinceId": "5", "osm_id": 2455424 },
+  { "id": "DE000102", "name": "Rauch", "provinceId": "5", "osm_id": 2612035 },
+  {
+    "id": "DE000103",
+    "name": "Rivadavia",
+    "provinceId": "5",
+    "osm_id": 2563415
+  },
+  { "id": "DE000237", "name": "Rojas", "provinceId": "5", "osm_id": 2474121 },
+  {
+    "id": "DE000238",
+    "name": "Roque Perez",
+    "provinceId": "5",
+    "osm_id": 2598812
+  },
+  {
+    "id": "DE000239",
+    "name": "Saavedra",
+    "provinceId": "5",
+    "osm_id": 2592550
+  },
+  {
+    "id": "DE000240",
+    "name": "Saladillo",
+    "provinceId": "5",
+    "osm_id": 2598907
+  },
+  {
+    "id": "DE000241",
+    "name": "Salliquelo",
+    "provinceId": "5",
+    "osm_id": 2565000
+  },
+  { "id": "DE000242", "name": "Salto", "provinceId": "5", "osm_id": 2461232 },
+  {
+    "id": "DE000243",
+    "name": "San Andres De Giles",
+    "provinceId": "5",
+    "osm_id": 2456577
+  },
+  {
+    "id": "DE000244",
+    "name": "San Antonio De Areco",
+    "provinceId": "5",
+    "osm_id": 2456452
+  },
+  {
+    "id": "DE000245",
+    "name": "San Cayetano",
+    "provinceId": "5",
+    "osm_id": 2590286
+  },
+  {
+    "id": "DE000246",
+    "name": "San Fernando",
+    "provinceId": "5",
+    "osm_id": 2443418
+  },
+  {
+    "id": "DE000247",
+    "name": "San Isidro",
+    "provinceId": "5",
+    "osm_id": 1769044
+  },
+  {
+    "id": "DE000248",
+    "name": "San Miguel",
+    "provinceId": "5",
+    "osm_id": 2430369
+  },
+  {
+    "id": "DE000249",
+    "name": "San Nicolas",
+    "provinceId": "5",
+    "osm_id": 2453690
+  },
+  {
+    "id": "DE000250",
+    "name": "San Pedro",
+    "provinceId": "5",
+    "osm_id": 2453543
+  },
+  {
+    "id": "DE000251",
+    "name": "San Vicente",
+    "provinceId": "5",
+    "osm_id": 2498924
+  },
+  {
+    "id": "DE000252",
+    "name": "Suipacha",
+    "provinceId": "5",
+    "osm_id": 2484090
+  },
+  { "id": "DE000253", "name": "Tandil", "provinceId": "5", "osm_id": 2607680 },
+  {
+    "id": "DE000254",
+    "name": "Tapalque",
+    "provinceId": "5",
+    "osm_id": 2609492
+  },
+  { "id": "DE000255", "name": "Tigre", "provinceId": "5", "osm_id": 2411762 },
+  {
+    "id": "DE000256",
+    "name": "Tordillo",
+    "provinceId": "5",
+    "osm_id": 2616944
+  },
+  {
+    "id": "DE000257",
+    "name": "Tornquist",
+    "provinceId": "5",
+    "osm_id": 2586980
+  },
+  {
+    "id": "DE000258",
+    "name": "Trenque Lauquen",
+    "provinceId": "5",
+    "osm_id": 2564357
+  },
+  {
+    "id": "DE000259",
+    "name": "Tres Arroyos",
+    "provinceId": "5",
+    "osm_id": 2590085
+  },
+  {
+    "id": "DE000260",
+    "name": "Tres De Febrero",
+    "provinceId": "5",
+    "osm_id": 1767378
+  },
+  {
+    "id": "DE000261",
+    "name": "Tres Lomas",
+    "provinceId": "5",
+    "osm_id": 2564922
+  },
+  {
+    "id": "DE000262",
+    "name": "Veinticinco De Mayo",
+    "provinceId": "5",
+    "osm_id": 2598392
+  },
+  {
+    "id": "DE000263",
+    "name": "Vicente Lopez",
+    "provinceId": "5",
+    "osm_id": 2752665
+  },
+  {
+    "id": "DE000264",
+    "name": "Villa Gesell",
+    "provinceId": "5",
+    "osm_id": 2621531
+  },
+  {
+    "id": "DE000265",
+    "name": "Villarino",
+    "provinceId": "5",
+    "osm_id": 2582585
+  },
+  { "id": "DE000266", "name": "Zarate", "provinceId": "5", "osm_id": 2452288 },
+  {
+    "id": "DE000519",
+    "name": "Punta Indio",
+    "provinceId": "5",
+    "osm_id": 2512592
+  },
+  { "id": "DE000267", "name": "Capital", "provinceId": "6" },
+  {
+    "id": "DE000268",
+    "name": "Cochinoca",
+    "provinceId": "6",
+    "osm_id": 3542033
+  },
+  {
+    "id": "DE000269",
+    "name": "Doctor M Belgrano",
+    "provinceId": "6",
+    "osm_id": 3558182
+  },
+  {
+    "id": "DE000270",
+    "name": "El Carmen",
+    "provinceId": "6",
+    "osm_id": 3560795
+  },
+  {
+    "id": "DE000271",
+    "name": "Humahuaca",
+    "provinceId": "6",
+    "osm_id": 3556160
+  },
+  { "id": "DE000272", "name": "Ledesma", "provinceId": "6", "osm_id": 3558255 },
+  { "id": "DE000273", "name": "Palpala", "provinceId": "6", "osm_id": 3560797 },
+  {
+    "id": "DE000274",
+    "name": "Rinconada",
+    "provinceId": "6",
+    "osm_id": 3542034
+  },
+  {
+    "id": "DE000275",
+    "name": "San Antonio",
+    "provinceId": "6",
+    "osm_id": 3558256
+  },
+  {
+    "id": "DE000276",
+    "name": "Santa Catalina",
+    "provinceId": "6",
+    "osm_id": 3544372
+  },
+  {
+    "id": "DE000277",
+    "name": "San Pedro",
+    "provinceId": "6",
+    "osm_id": 3560798
+  },
+  {
+    "id": "DE000278",
+    "name": "Santa Barbara",
+    "provinceId": "6",
+    "osm_id": 3560799
+  },
+  { "id": "DE000279", "name": "Susques", "provinceId": "6", "osm_id": 3542035 },
+  { "id": "DE000280", "name": "Tilcara", "provinceId": "6", "osm_id": 3556161 },
+  { "id": "DE000281", "name": "Tumbaya", "provinceId": "6", "osm_id": 3544373 },
+  {
+    "id": "DE000282",
+    "name": "Valle Grande",
+    "provinceId": "6",
+    "osm_id": 3557188
+  },
+  { "id": "DE000283", "name": "Yavi", "provinceId": "6", "osm_id": 3544374 },
+  { "id": "DE000469", "name": "Aguirre", "provinceId": "7", "osm_id": 3575548 },
+  { "id": "DE000470", "name": "Alberdi", "provinceId": "7", "osm_id": 3568939 },
+  {
+    "id": "DE000471",
+    "name": "Atamisqui",
+    "provinceId": "7",
+    "osm_id": 3573321
+  },
+  {
+    "id": "DE000472",
+    "name": "Avellaneda",
+    "provinceId": "7",
+    "osm_id": 3573322
+  },
+  { "id": "DE000473", "name": "Banda", "provinceId": "7", "osm_id": 3568940 },
+  {
+    "id": "DE000474",
+    "name": "Belgrano",
+    "provinceId": "7",
+    "osm_id": 3575549
+  },
+  { "id": "DE000475", "name": "Capital", "provinceId": "7", "osm_id": 3572170 },
+  { "id": "DE000476", "name": "Choya", "provinceId": "7", "osm_id": 3572773 },
+  { "id": "DE000477", "name": "Copo", "provinceId": "7", "osm_id": 3566958 },
+  {
+    "id": "DE000478",
+    "name": "Figueroa",
+    "provinceId": "7",
+    "osm_id": 3569888
+  },
+  {
+    "id": "DE000479",
+    "name": "General Taboada",
+    "provinceId": "7",
+    "osm_id": 3574233
+  },
+  {
+    "id": "DE000480",
+    "name": "Guasayan",
+    "provinceId": "7",
+    "osm_id": 3569889
+  },
+  { "id": "DE000481", "name": "Jimenez", "provinceId": "7", "osm_id": 3566959 },
+  {
+    "id": "DE000482",
+    "name": "Juan F Ibarra",
+    "provinceId": "7",
+    "osm_id": 3572774
+  },
+  { "id": "DE000483", "name": "Moreno", "provinceId": "7", "osm_id": 3569887 },
+  {
+    "id": "DE000484",
+    "name": "Pellegrini",
+    "provinceId": "7",
+    "osm_id": 3566960
+  },
+  {
+    "id": "DE000485",
+    "name": "Quebrachos",
+    "provinceId": "7",
+    "osm_id": 3575760
+  },
+  {
+    "id": "DE000486",
+    "name": "Rio Hondo",
+    "provinceId": "7",
+    "osm_id": 3568941
+  },
+  {
+    "id": "DE000487",
+    "name": "Rivadavia",
+    "provinceId": "7",
+    "osm_id": 3575761
+  },
+  { "id": "DE000488", "name": "Robles", "provinceId": "7", "osm_id": 3572171 },
+  {
+    "id": "DE000489",
+    "name": "Salavina",
+    "provinceId": "7",
+    "osm_id": 3575550
+  },
+  {
+    "id": "DE000490",
+    "name": "Silipica",
+    "provinceId": "7",
+    "osm_id": 3572776
+  },
+  { "id": "DE000491", "name": "Loreto", "provinceId": "7", "osm_id": 3573323 },
+  { "id": "DE000492", "name": "Matara", "provinceId": "7" },
+  { "id": "DE000493", "name": "Mitre", "provinceId": "7", "osm_id": 3575759 },
+  {
+    "id": "DE000494",
+    "name": "Ojo de agua",
+    "provinceId": "7",
+    "osm_id": 3574234
+  },
+  {
+    "id": "DE000495",
+    "name": "San Martin",
+    "provinceId": "7",
+    "osm_id": 3573324
+  },
+  {
+    "id": "DE000496",
+    "name": "Sarmiento",
+    "provinceId": "7",
+    "osm_id": 3572775
+  },
+  {
+    "id": "DE000121",
+    "name": "Almirante Brown",
+    "provinceId": "8",
+    "osm_id": 1658623
+  },
+  { "id": "DE000122", "name": "Bermejo", "provinceId": "8", "osm_id": 1572876 },
+  {
+    "id": "DE000123",
+    "name": "Chacabuco",
+    "provinceId": "8",
+    "osm_id": 1606186
+  },
+  {
+    "id": "DE000124",
+    "name": "Comandante Fernandez",
+    "provinceId": "8",
+    "osm_id": 1611284
+  },
+  {
+    "id": "DE000125",
+    "name": "Doce De Octubre",
+    "provinceId": "8",
+    "osm_id": 1606188
+  },
+  {
+    "id": "DE000126",
+    "name": "F J S Maria De Oro",
+    "provinceId": "8",
+    "osm_id": 1605989
+  },
+  {
+    "id": "DE000127",
+    "name": "General Belgrano",
+    "provinceId": "8",
+    "osm_id": 1651375
+  },
+  {
+    "id": "DE000128",
+    "name": "General Donovan",
+    "provinceId": "8",
+    "osm_id": 1572216
+  },
+  {
+    "id": "DE000129",
+    "name": "General Guemes",
+    "provinceId": "8",
+    "osm_id": 1623952
+  },
+  {
+    "id": "DE000130",
+    "name": "Independencia",
+    "provinceId": "8",
+    "osm_id": 1651377
+  },
+  {
+    "id": "DE000131",
+    "name": "Lib Grl San Martin",
+    "provinceId": "8",
+    "osm_id": 1572875
+  },
+  {
+    "id": "DE000132",
+    "name": "Libertad",
+    "provinceId": "8",
+    "osm_id": 1566159
+  },
+  { "id": "DE000133", "name": "Maipu", "provinceId": "8", "osm_id": 1623953 },
+  {
+    "id": "DE000134",
+    "name": "Mayor Luis J Fontana",
+    "provinceId": "8",
+    "osm_id": 1581180
+  },
+  {
+    "id": "DE000135",
+    "name": "Nueve De Julio",
+    "provinceId": "8",
+    "osm_id": 1650030
+  },
+  {
+    "id": "DE000136",
+    "name": "O Higgins",
+    "provinceId": "8",
+    "osm_id": 1606185
+  },
+  {
+    "id": "DE000137",
+    "name": "Pcia De La Plaza",
+    "provinceId": "8",
+    "osm_id": 1581181
+  },
+  {
+    "id": "DE000138",
+    "name": "Primero De Mayo",
+    "provinceId": "8",
+    "osm_id": 1572217
+  },
+  {
+    "id": "DE000139",
+    "name": "Quitilipi",
+    "provinceId": "8",
+    "osm_id": 1611285
+  },
+  {
+    "id": "DE000140",
+    "name": "San Fernando",
+    "provinceId": "8",
+    "osm_id": 1566259
+  },
+  {
+    "id": "DE000141",
+    "name": "San Lorenzo",
+    "provinceId": "8",
+    "osm_id": 1606187
+  },
+  {
+    "id": "DE000142",
+    "name": "Sargento Cabral",
+    "provinceId": "8",
+    "osm_id": 1572877
+  },
+  {
+    "id": "DE000143",
+    "name": "Tapenaga",
+    "provinceId": "8",
+    "osm_id": 1572219
+  },
+  {
+    "id": "DE000144",
+    "name": "Veinticinco De Mayo",
+    "provinceId": "8",
+    "osm_id": 1581179
+  },
+  { "id": "DE000327", "name": "Capital", "provinceId": "9", "osm_id": 2204157 },
+  {
+    "id": "DE000328",
+    "name": "General Alvear",
+    "provinceId": "9",
+    "osm_id": 3006739
+  },
+  {
+    "id": "DE000329",
+    "name": "Godoy Cruz",
+    "provinceId": "9",
+    "osm_id": 2204158
+  },
+  {
+    "id": "DE000330",
+    "name": "Guaymallen",
+    "provinceId": "9",
+    "osm_id": 2204159
+  },
+  { "id": "DE000331", "name": "Junin", "provinceId": "9", "osm_id": 2942557 },
+  { "id": "DE000332", "name": "La Paz", "provinceId": "9", "osm_id": 2992001 },
+  {
+    "id": "DE000333",
+    "name": "Las Heras",
+    "provinceId": "9",
+    "osm_id": 2975791
+  },
+  { "id": "DE000334", "name": "Lavalle", "provinceId": "9", "osm_id": 2980514 },
+  {
+    "id": "DE000335",
+    "name": "Lujan De Cuyo",
+    "provinceId": "9",
+    "osm_id": 2989830
+  },
+  { "id": "DE000336", "name": "Maipu", "provinceId": "9", "osm_id": 2737765 },
+  {
+    "id": "DE000337",
+    "name": "Malargue",
+    "provinceId": "9",
+    "osm_id": 3011701
+  },
+  {
+    "id": "DE000338",
+    "name": "Rivadavia",
+    "provinceId": "9",
+    "osm_id": 2941709
+  },
+  {
+    "id": "DE000339",
+    "name": "San Carlos",
+    "provinceId": "9",
+    "osm_id": 3011833
+  },
+  {
+    "id": "DE000340",
+    "name": "San Martin",
+    "provinceId": "9",
+    "osm_id": 2731270
+  },
+  {
+    "id": "DE000341",
+    "name": "San Rafael",
+    "provinceId": "9",
+    "osm_id": 3006740
+  },
+  {
+    "id": "DE000342",
+    "name": "Santa Rosa",
+    "provinceId": "9",
+    "osm_id": 2993090
+  },
+  { "id": "DE000343", "name": "Tunuyan", "provinceId": "9", "osm_id": 3000606 },
+  {
+    "id": "DE000344",
+    "name": "Tupungato",
+    "provinceId": "9",
+    "osm_id": 2993822
+  },
+  { "id": "DE000391", "name": "Anta", "provinceId": "10", "osm_id": 3059839 },
+  { "id": "DE000392", "name": "Cachi", "provinceId": "10", "osm_id": 3059840 },
+  {
+    "id": "DE000393",
+    "name": "Cafayate",
+    "provinceId": "10",
+    "osm_id": 3059841
+  },
+  {
+    "id": "DE000394",
+    "name": "Capital",
+    "provinceId": "10",
+    "osm_id": 3059842
+  },
+  {
+    "id": "DE000395",
+    "name": "Cerrillos",
+    "provinceId": "10",
+    "osm_id": 3059843
+  },
+  {
+    "id": "DE000396",
+    "name": "Chicoana",
+    "provinceId": "10",
+    "osm_id": 3059844
+  },
+  {
+    "id": "DE000397",
+    "name": "General M De Guemes",
+    "provinceId": "10",
+    "osm_id": 3059845
+  },
+  {
+    "id": "DE000398",
+    "name": "Gral J D San Martin",
+    "provinceId": "10",
+    "osm_id": 3059846
+  },
+  {
+    "id": "DE000399",
+    "name": "Guachipas",
+    "provinceId": "10",
+    "osm_id": 3059847
+  },
+  { "id": "DE000400", "name": "Iruya", "provinceId": "10", "osm_id": 3059848 },
+  {
+    "id": "DE000401",
+    "name": "La Caldera",
+    "provinceId": "10",
+    "osm_id": 3059849
+  },
+  {
+    "id": "DE000402",
+    "name": "La Candelaria",
+    "provinceId": "10",
+    "osm_id": 3059850
+  },
+  {
+    "id": "DE000403",
+    "name": "La Poma",
+    "provinceId": "10",
+    "osm_id": 3059851
+  },
+  {
+    "id": "DE000404",
+    "name": "LA VIÑA",
+    "provinceId": "10",
+    "osm_id": 3059852
+  },
+  {
+    "id": "DE000405",
+    "name": "Los Andes",
+    "provinceId": "10",
+    "osm_id": 3059820
+  },
+  { "id": "DE000406", "name": "Metan", "provinceId": "10", "osm_id": 3059853 },
+  {
+    "id": "DE000407",
+    "name": "Molinos",
+    "provinceId": "10",
+    "osm_id": 3059854
+  },
+  { "id": "DE000408", "name": "Oran", "provinceId": "10", "osm_id": 3059855 },
+  {
+    "id": "DE000409",
+    "name": "R De La Frontera",
+    "provinceId": "10",
+    "osm_id": 3059858
+  },
+  {
+    "id": "DE000410",
+    "name": "Rivadavia",
+    "provinceId": "10",
+    "osm_id": 3059856
+  },
+  {
+    "id": "DE000411",
+    "name": "Rosario De Lerma",
+    "provinceId": "10",
+    "osm_id": 3059857
+  },
+  {
+    "id": "DE000412",
+    "name": "San Carlos",
+    "provinceId": "10",
+    "osm_id": 3059859
+  },
+  {
+    "id": "DE000413",
+    "name": "Santa Victoria",
+    "provinceId": "10",
+    "osm_id": 3059860
+  },
+  {
+    "id": "DE000501",
+    "name": "Burruyacu",
+    "provinceId": "11",
+    "osm_id": 3491887
+  },
+  {
+    "id": "DE000502",
+    "name": "Capital",
+    "provinceId": "11",
+    "osm_id": 3486112
+  },
+  {
+    "id": "DE000503",
+    "name": "Chicligasta",
+    "provinceId": "11",
+    "osm_id": 3467323
+  },
+  {
+    "id": "DE000504",
+    "name": "Cruz Alta",
+    "provinceId": "11",
+    "osm_id": 3488360
+  },
+  {
+    "id": "DE000505",
+    "name": "Famailla",
+    "provinceId": "11",
+    "osm_id": 3479057
+  },
+  {
+    "id": "DE000506",
+    "name": "Graneros",
+    "provinceId": "11",
+    "osm_id": 3459089
+  },
+  {
+    "id": "DE000507",
+    "name": "Juan B. Alberdi",
+    "provinceId": "11",
+    "osm_id": 3460035
+  },
+  {
+    "id": "DE000508",
+    "name": "La Cocha",
+    "provinceId": "11",
+    "osm_id": 3456857
+  },
+  { "id": "DE000509", "name": "Leales", "provinceId": "11", "osm_id": 3474754 },
+  { "id": "DE000510", "name": "Lules", "provinceId": "11", "osm_id": 3482838 },
+  {
+    "id": "DE000511",
+    "name": "Monteros",
+    "provinceId": "11",
+    "osm_id": 3470166
+  },
+  {
+    "id": "DE000512",
+    "name": "Rio Chico",
+    "provinceId": "11",
+    "osm_id": 3461093
+  },
+  { "id": "DE000513", "name": "Simoca", "provinceId": "11", "osm_id": 3466498 },
+  { "id": "DE000514", "name": "Tafi", "provinceId": "11" },
+  {
+    "id": "DE000515",
+    "name": "Tafi Del Valle",
+    "provinceId": "11",
+    "osm_id": 3482820
+  },
+  {
+    "id": "DE000516",
+    "name": "Tafi Viejo",
+    "provinceId": "11",
+    "osm_id": 3491177
+  },
+  {
+    "id": "DE000517",
+    "name": "Trancas",
+    "provinceId": "11",
+    "osm_id": 3492622
+  },
+  {
+    "id": "DE000518",
+    "name": "Yerba Buena",
+    "provinceId": "11",
+    "osm_id": 3486113
+  },
+  {
+    "id": "DE000362",
+    "name": "Ñorquin",
+    "provinceId": "12",
+    "osm_id": 2584918
+  },
+  { "id": "DE000363", "name": "AÑELO", "provinceId": "12", "osm_id": 2584327 },
+  {
+    "id": "DE000364",
+    "name": "Alumine",
+    "provinceId": "12",
+    "osm_id": 2584916
+  },
+  {
+    "id": "DE000365",
+    "name": "Catan Lil",
+    "provinceId": "12",
+    "osm_id": 2584924
+  },
+  {
+    "id": "DE000366",
+    "name": "Chos Malal",
+    "provinceId": "12",
+    "osm_id": 2584349
+  },
+  {
+    "id": "DE000367",
+    "name": "Collon Cura",
+    "provinceId": "12",
+    "osm_id": 2584925
+  },
+  {
+    "id": "DE000368",
+    "name": "Confluencia",
+    "provinceId": "12",
+    "osm_id": 2598394
+  },
+  {
+    "id": "DE000369",
+    "name": "Huiliches",
+    "provinceId": "12",
+    "osm_id": 2585496
+  },
+  { "id": "DE000370", "name": "Lacar", "provinceId": "12", "osm_id": 2585497 },
+  {
+    "id": "DE000371",
+    "name": "Loncopue",
+    "provinceId": "12",
+    "osm_id": 2584917
+  },
+  {
+    "id": "DE000372",
+    "name": "Los Lagos",
+    "provinceId": "12",
+    "osm_id": 2585498
+  },
+  { "id": "DE000373", "name": "Minas", "provinceId": "12", "osm_id": 2584350 },
+  {
+    "id": "DE000374",
+    "name": "Pehuenches",
+    "provinceId": "12",
+    "osm_id": 2584328
+  },
+  {
+    "id": "DE000375",
+    "name": "Picun Leufu",
+    "provinceId": "12",
+    "osm_id": 2583984
+  },
+  {
+    "id": "DE000376",
+    "name": "Picunches",
+    "provinceId": "12",
+    "osm_id": 2584926
+  },
+  { "id": "DE000377", "name": "Zapala", "provinceId": "12", "osm_id": 2584927 },
+  { "id": "DE000497", "name": "Bahia Thetis", "provinceId": "13" },
+  {
+    "id": "DE000498",
+    "name": "Rio Grande",
+    "provinceId": "13",
+    "osm_id": 2654931
+  },
+  { "id": "DE000499", "name": "San Sebastian", "provinceId": "13" },
+  {
+    "id": "DE000500",
+    "name": "Ushuaia",
+    "provinceId": "13",
+    "osm_id": 2654896
+  },
+  {
+    "id": "DE000434",
+    "name": "Ayacucho",
+    "provinceId": "14",
+    "osm_id": 3589727
+  },
+  {
+    "id": "DE000435",
+    "name": "Belgrano",
+    "provinceId": "14",
+    "osm_id": 3590050
+  },
+  {
+    "id": "DE000436",
+    "name": "Chacabuco",
+    "provinceId": "14",
+    "osm_id": 3592495
+  },
+  {
+    "id": "DE000437",
+    "name": "General Pedernera",
+    "provinceId": "14",
+    "osm_id": 3592496
+  },
+  {
+    "id": "DE000438",
+    "name": "Gob Vicente Dupuy",
+    "provinceId": "14",
+    "osm_id": 3592497
+  },
+  { "id": "DE000439", "name": "Junin", "provinceId": "14", "osm_id": 3591439 },
+  {
+    "id": "DE000440",
+    "name": "La Capital",
+    "provinceId": "14",
+    "osm_id": 3592498
+  },
+  {
+    "id": "DE000441",
+    "name": "Pringles",
+    "provinceId": "14",
+    "osm_id": 3590133
+  },
+  {
+    "id": "DE000442",
+    "name": "San Martin",
+    "provinceId": "14",
+    "osm_id": 3591440
+  },
+  {
+    "id": "DE000306",
+    "name": "Angel Vte Peñaloza",
+    "provinceId": "15",
+    "osm_id": 3587534
+  },
+  { "id": "DE000307", "name": "Arauco", "provinceId": "15", "osm_id": 3587453 },
+  {
+    "id": "DE000308",
+    "name": "Capital",
+    "provinceId": "15",
+    "osm_id": 3587454
+  },
+  {
+    "id": "DE000309",
+    "name": "Chilecito",
+    "provinceId": "15",
+    "osm_id": 3586751
+  },
+  {
+    "id": "DE000310",
+    "name": "General Belgrano",
+    "provinceId": "15",
+    "osm_id": 3587530
+  },
+  {
+    "id": "DE000311",
+    "name": "General Felipe Varela",
+    "provinceId": "15",
+    "osm_id": 3586752
+  },
+  {
+    "id": "DE000312",
+    "name": "General Ocampo",
+    "provinceId": "15",
+    "osm_id": 3587532
+  },
+  {
+    "id": "DE000313",
+    "name": "General San Martin",
+    "provinceId": "15",
+    "osm_id": 3587533
+  },
+  {
+    "id": "DE000314",
+    "name": "Chamical",
+    "provinceId": "15",
+    "osm_id": 3587529
+  },
+  {
+    "id": "DE000315",
+    "name": "ROSARIO V PEÑALOZA",
+    "provinceId": "15",
+    "osm_id": 3587535
+  },
+  {
+    "id": "DE000316",
+    "name": "San B De Los Sauces",
+    "provinceId": "15",
+    "osm_id": 3587457
+  },
+  { "id": "DE000317", "name": "Velez Sarsfield", "provinceId": "15" },
+  {
+    "id": "DE000318",
+    "name": "Sanagasta",
+    "provinceId": "15",
+    "osm_id": 3586753
+  },
+  { "id": "DE000319", "name": "Rivadavia", "provinceId": "15" },
+  {
+    "id": "DE000320",
+    "name": "Castro Barros",
+    "provinceId": "15",
+    "osm_id": 3587455
+  },
+  {
+    "id": "DE000321",
+    "name": "Famatina",
+    "provinceId": "15",
+    "osm_id": 3586709
+  },
+  { "id": "DE000322", "name": "Gral. Roca", "provinceId": "15" },
+  {
+    "id": "DE000323",
+    "name": "Gral. Lamadrid",
+    "provinceId": "15",
+    "osm_id": 3586710
+  },
+  {
+    "id": "DE000324",
+    "name": "Vinchina",
+    "provinceId": "15",
+    "osm_id": 3586711
+  },
+  {
+    "id": "DE000325",
+    "name": "Independencia",
+    "provinceId": "15",
+    "osm_id": 3587456
+  },
+  {
+    "id": "DE000326",
+    "name": "Juan F. Quiroga",
+    "provinceId": "15",
+    "osm_id": 3587531
+  },
+  {
+    "id": "DE000228",
+    "name": "Bermejo",
+    "provinceId": "16",
+    "osm_id": 3536461
+  },
+  {
+    "id": "DE000229",
+    "name": "Formosa",
+    "provinceId": "16",
+    "osm_id": 3535660
+  },
+  { "id": "DE000230", "name": "Laishi", "provinceId": "16", "osm_id": 3533812 },
+  {
+    "id": "DE000231",
+    "name": "Matacos",
+    "provinceId": "16",
+    "osm_id": 3536462
+  },
+  { "id": "DE000232", "name": "Patiño", "provinceId": "16", "osm_id": 3536463 },
+  {
+    "id": "DE000233",
+    "name": "Pilagas",
+    "provinceId": "16",
+    "osm_id": 3536464
+  },
+  {
+    "id": "DE000234",
+    "name": "Pilcomayo",
+    "provinceId": "16",
+    "osm_id": 3536465
+  },
+  { "id": "DE000235", "name": "Pirane", "provinceId": "16", "osm_id": 3536466 },
+  {
+    "id": "DE000236",
+    "name": "Ramon Lista",
+    "provinceId": "16",
+    "osm_id": 3536467
+  },
+  { "id": "DE000211", "name": "Colon", "provinceId": "17", "osm_id": 2821534 },
+  {
+    "id": "DE000212",
+    "name": "Concordia",
+    "provinceId": "17",
+    "osm_id": 2801472
+  },
+  {
+    "id": "DE000213",
+    "name": "Diamante",
+    "provinceId": "17",
+    "osm_id": 2868400
+  },
+  {
+    "id": "DE000214",
+    "name": "Federacion",
+    "provinceId": "17",
+    "osm_id": 2799776
+  },
+  {
+    "id": "DE000215",
+    "name": "Federal",
+    "provinceId": "17",
+    "osm_id": 2806550
+  },
+  {
+    "id": "DE000216",
+    "name": "Gualeguay",
+    "provinceId": "17",
+    "osm_id": 2883518
+  },
+  {
+    "id": "DE000217",
+    "name": "Gualeguaychu",
+    "provinceId": "17",
+    "osm_id": 2889608
+  },
+  {
+    "id": "DE000218",
+    "name": "Islas Del Ibicuy",
+    "provinceId": "17",
+    "osm_id": 2917909
+  },
+  { "id": "DE000219", "name": "La Paz", "provinceId": "17", "osm_id": 2806696 },
+  { "id": "DE000220", "name": "Nogoya", "provinceId": "17", "osm_id": 2836223 },
+  { "id": "DE000221", "name": "Parana", "provinceId": "17", "osm_id": 2827198 },
+  {
+    "id": "DE000222",
+    "name": "Feliciano",
+    "provinceId": "17",
+    "osm_id": 2801473
+  },
+  {
+    "id": "DE000223",
+    "name": "San J. de Feliciano",
+    "provinceId": "17",
+    "osm_id": 2814302
+  },
+  { "id": "DE000224", "name": "Tala", "provinceId": "17", "osm_id": 2836224 },
+  {
+    "id": "DE000225",
+    "name": "Uruguay",
+    "provinceId": "17",
+    "osm_id": 2836225
+  },
+  {
+    "id": "DE000226",
+    "name": "Victoria",
+    "provinceId": "17",
+    "osm_id": 2883519
+  },
+  {
+    "id": "DE000227",
+    "name": "Villaguay",
+    "provinceId": "17",
+    "osm_id": 2813499
+  },
+  {
+    "id": "DE000284",
+    "name": "Atreuco",
+    "provinceId": "18",
+    "osm_id": 2660293
+  },
+  {
+    "id": "DE000285",
+    "name": "Caleu Caleu",
+    "provinceId": "18",
+    "osm_id": 2660411
+  },
+  {
+    "id": "DE000286",
+    "name": "Capital",
+    "provinceId": "18",
+    "osm_id": 2661488
+  },
+  {
+    "id": "DE000287",
+    "name": "Catrilo",
+    "provinceId": "18",
+    "osm_id": 2660266
+  },
+  {
+    "id": "DE000288",
+    "name": "Chapaleufu",
+    "provinceId": "18",
+    "osm_id": 2659613
+  },
+  {
+    "id": "DE000289",
+    "name": "Chical Co",
+    "provinceId": "18",
+    "osm_id": 2662558
+  },
+  {
+    "id": "DE000290",
+    "name": "Conhello",
+    "provinceId": "18",
+    "osm_id": 2661364
+  },
+  {
+    "id": "DE000291",
+    "name": "Cura Co",
+    "provinceId": "18",
+    "osm_id": 2662232
+  },
+  {
+    "id": "DE000292",
+    "name": "Guatrache",
+    "provinceId": "18",
+    "osm_id": 2660318
+  },
+  { "id": "DE000293", "name": "Hucal", "provinceId": "18", "osm_id": 2660404 },
+  {
+    "id": "DE000294",
+    "name": "Lihuel Calel",
+    "provinceId": "18",
+    "osm_id": 2661651
+  },
+  {
+    "id": "DE000295",
+    "name": "Chalileo",
+    "provinceId": "18",
+    "osm_id": 2667317
+  },
+  {
+    "id": "DE000296",
+    "name": "Limay Mahuida",
+    "provinceId": "18",
+    "osm_id": 2667275
+  },
+  {
+    "id": "DE000297",
+    "name": "Loventue",
+    "provinceId": "18",
+    "osm_id": 2667238
+  },
+  { "id": "DE000298", "name": "Maraco", "provinceId": "18", "osm_id": 2659961 },
+  { "id": "DE000299", "name": "Puelen", "provinceId": "18", "osm_id": 2662556 },
+  {
+    "id": "DE000300",
+    "name": "Quemu Quemu",
+    "provinceId": "18",
+    "osm_id": 2660123
+  },
+  { "id": "DE000301", "name": "Rancul", "provinceId": "18", "osm_id": 2661309 },
+  {
+    "id": "DE000302",
+    "name": "Realico",
+    "provinceId": "18",
+    "osm_id": 2659780
+  },
+  { "id": "DE000303", "name": "Toay", "provinceId": "18", "osm_id": 2661524 },
+  { "id": "DE000304", "name": "Trenel", "provinceId": "18", "osm_id": 2661320 },
+  {
+    "id": "DE000305",
+    "name": "Utracan",
+    "provinceId": "18",
+    "osm_id": 2667246
+  },
+  {
+    "id": "DE000345",
+    "name": "Apostoles",
+    "provinceId": "19",
+    "osm_id": 3173526
+  },
+  {
+    "id": "DE000346",
+    "name": "Cainguas",
+    "provinceId": "19",
+    "osm_id": 3181297
+  },
+  {
+    "id": "DE000347",
+    "name": "Candelaria",
+    "provinceId": "19",
+    "osm_id": 3187901
+  },
+  {
+    "id": "DE000348",
+    "name": "Capital",
+    "provinceId": "19",
+    "osm_id": 3173527
+  },
+  {
+    "id": "DE000349",
+    "name": "Concepcion",
+    "provinceId": "19",
+    "osm_id": 3173528
+  },
+  {
+    "id": "DE000350",
+    "name": "Eldorado",
+    "provinceId": "19",
+    "osm_id": 3199541
+  },
+  {
+    "id": "DE000351",
+    "name": "General M Belgrano",
+    "provinceId": "19",
+    "osm_id": 3199542
+  },
+  {
+    "id": "DE000352",
+    "name": "Guarani",
+    "provinceId": "19",
+    "osm_id": 3183289
+  },
+  { "id": "DE000353", "name": "Iguazu", "provinceId": "19", "osm_id": 3199543 },
+  {
+    "id": "DE000354",
+    "name": "Leandro N Alem",
+    "provinceId": "19",
+    "osm_id": 3173529
+  },
+  {
+    "id": "DE000355",
+    "name": "Lib Gral San Martin",
+    "provinceId": "19",
+    "osm_id": 3183290
+  },
+  {
+    "id": "DE000356",
+    "name": "Montecarlo",
+    "provinceId": "19",
+    "osm_id": 3183291
+  },
+  { "id": "DE000357", "name": "Obera", "provinceId": "19", "osm_id": 3181298 },
+  {
+    "id": "DE000358",
+    "name": "San Ignacio",
+    "provinceId": "19",
+    "osm_id": 3207683
+  },
+  {
+    "id": "DE000359",
+    "name": "San Javier",
+    "provinceId": "19",
+    "osm_id": 3195732
+  },
+  {
+    "id": "DE000360",
+    "name": "San Pedro",
+    "provinceId": "19",
+    "osm_id": 3199544
+  },
+  {
+    "id": "DE000361",
+    "name": "Veinticinco de mayo",
+    "provinceId": "19",
+    "osm_id": 3184984
+  },
+  { "id": "DE000105", "name": "Ambato", "provinceId": "20", "osm_id": 1563327 },
+  {
+    "id": "DE000106",
+    "name": "Ancasti",
+    "provinceId": "20",
+    "osm_id": 1561893
+  },
+  {
+    "id": "DE000107",
+    "name": "Andalgala",
+    "provinceId": "20",
+    "osm_id": 1566370
+  },
+  {
+    "id": "DE000108",
+    "name": "Antofagasta de la Sierra",
+    "provinceId": "20",
+    "osm_id": 1568468
+  },
+  { "id": "DE000109", "name": "Belen", "provinceId": "20", "osm_id": 1568254 },
+  {
+    "id": "DE000110",
+    "name": "Capital",
+    "provinceId": "20",
+    "osm_id": 1563319
+  },
+  {
+    "id": "DE000111",
+    "name": "Capayan",
+    "provinceId": "20",
+    "osm_id": 1563264
+  },
+  {
+    "id": "DE000112",
+    "name": "El Alto",
+    "provinceId": "20",
+    "osm_id": 1564420
+  },
+  {
+    "id": "DE000113",
+    "name": "Fray Mamerto Esquiu",
+    "provinceId": "20",
+    "osm_id": 1564177
+  },
+  { "id": "DE000114", "name": "La Paz", "provinceId": "20", "osm_id": 1561865 },
+  { "id": "DE000115", "name": "Paclin", "provinceId": "20", "osm_id": 1564323 },
+  { "id": "DE000116", "name": "Poman", "provinceId": "20", "osm_id": 1565610 },
+  {
+    "id": "DE000117",
+    "name": "Santa Maria",
+    "provinceId": "20",
+    "osm_id": 1567357
+  },
+  {
+    "id": "DE000118",
+    "name": "Santa Rosa",
+    "provinceId": "20",
+    "osm_id": 1564365
+  },
+  {
+    "id": "DE000119",
+    "name": "Tinogasta",
+    "provinceId": "20",
+    "osm_id": 1568453
+  },
+  {
+    "id": "DE000120",
+    "name": "Valle Viejo",
+    "provinceId": "20",
+    "osm_id": 1563381
+  },
+  {
+    "id": "DE000414",
+    "name": "Albardon",
+    "provinceId": "21",
+    "osm_id": 3229535
+  },
+  { "id": "DE000415", "name": "Angalo", "provinceId": "21", "osm_id": 3581513 },
+  {
+    "id": "DE000416",
+    "name": "Calingasta",
+    "provinceId": "21",
+    "osm_id": 3578127
+  },
+  {
+    "id": "DE000417",
+    "name": "Capital",
+    "provinceId": "21",
+    "osm_id": 3465536
+  },
+  {
+    "id": "DE000418",
+    "name": "Caucete",
+    "provinceId": "21",
+    "osm_id": 3581514
+  },
+  {
+    "id": "DE000419",
+    "name": "Chimbas",
+    "provinceId": "21",
+    "osm_id": 3584751
+  },
+  {
+    "id": "DE000420",
+    "name": "Iglesia",
+    "provinceId": "21",
+    "osm_id": 3578128
+  },
+  { "id": "DE000421", "name": "Jachal", "provinceId": "21", "osm_id": 3578126 },
+  {
+    "id": "DE000422",
+    "name": "Nueve De Julio",
+    "provinceId": "21",
+    "osm_id": 6661141
+  },
+  {
+    "id": "DE000423",
+    "name": "Pocito",
+    "provinceId": "21",
+    "osm_id": 10756329
+  },
+  { "id": "DE000424", "name": "Rawson", "provinceId": "21", "osm_id": 3583068 },
+  {
+    "id": "DE000425",
+    "name": "Rivadavia",
+    "provinceId": "21",
+    "osm_id": 3583070
+  },
+  { "id": "DE000426", "name": "San Juan", "provinceId": "21" },
+  {
+    "id": "DE000427",
+    "name": "San Martin",
+    "provinceId": "21",
+    "osm_id": 3584753
+  },
+  {
+    "id": "DE000428",
+    "name": "Santa Lucia",
+    "provinceId": "21",
+    "osm_id": 3584754
+  },
+  {
+    "id": "DE000429",
+    "name": "Sarmiento",
+    "provinceId": "21",
+    "osm_id": 3581365
+  },
+  { "id": "DE000430", "name": "Ullun", "provinceId": "21", "osm_id": 3581367 },
+  {
+    "id": "DE000431",
+    "name": "Valle Fertil",
+    "provinceId": "21",
+    "osm_id": 3581515
+  },
+  {
+    "id": "DE000432",
+    "name": "25 de mayo",
+    "provinceId": "21",
+    "osm_id": 3581548
+  },
+  { "id": "DE000433", "name": "Zonda", "provinceId": "21", "osm_id": 3581366 },
+  {
+    "id": "DE000378",
+    "name": "Adolfo Alsina",
+    "provinceId": "22",
+    "osm_id": 3537173
+  },
+  {
+    "id": "DE000379",
+    "name": "Avellaneda",
+    "provinceId": "22",
+    "osm_id": 3539238
+  },
+  {
+    "id": "DE000380",
+    "name": "Bariloche",
+    "provinceId": "22",
+    "osm_id": 3541555
+  },
+  { "id": "DE000381", "name": "Conesa", "provinceId": "22", "osm_id": 3537174 },
+  { "id": "DE000382", "name": "El Cuy", "provinceId": "22", "osm_id": 3539451 },
+  {
+    "id": "DE000383",
+    "name": "General Roca",
+    "provinceId": "22",
+    "osm_id": 3539452
+  },
+  {
+    "id": "DE000384",
+    "name": "Norquinco",
+    "provinceId": "22",
+    "osm_id": 3541558
+  },
+  {
+    "id": "DE000385",
+    "name": "Nueve De Julio",
+    "provinceId": "22",
+    "osm_id": 3539453
+  },
+  {
+    "id": "DE000386",
+    "name": "Pichi Mahuida",
+    "provinceId": "22",
+    "osm_id": 3539239
+  },
+  {
+    "id": "DE000387",
+    "name": "Pilcaniyeu",
+    "provinceId": "22",
+    "osm_id": 3541556
+  },
+  {
+    "id": "DE000388",
+    "name": "San Antonio",
+    "provinceId": "22",
+    "osm_id": 3537175
+  },
+  {
+    "id": "DE000389",
+    "name": "Valcheta",
+    "provinceId": "22",
+    "osm_id": 3539240
+  },
+  {
+    "id": "DE000390",
+    "name": "Veinticinco De Mayo",
+    "provinceId": "22",
+    "osm_id": 3541557
+  },
+  {
+    "id": "DE000443",
+    "name": "Corpen Aike",
+    "provinceId": "23",
+    "osm_id": 2672803
+  },
+  {
+    "id": "DE000444",
+    "name": "Deseado",
+    "provinceId": "23",
+    "osm_id": 2673406
+  },
+  {
+    "id": "DE000445",
+    "name": "Guer Aike",
+    "provinceId": "23",
+    "osm_id": 2672831
+  },
+  {
+    "id": "DE000446",
+    "name": "Lago Argentino",
+    "provinceId": "23",
+    "osm_id": 2672854
+  },
+  {
+    "id": "DE000447",
+    "name": "Lago Buenos Aires",
+    "provinceId": "23",
+    "osm_id": 2672883
+  },
+  {
+    "id": "DE000448",
+    "name": "Magallanes",
+    "provinceId": "23",
+    "osm_id": 2673377
+  },
+  {
+    "id": "DE000449",
+    "name": "Rio Chico",
+    "provinceId": "23",
+    "osm_id": 2672876
+  },
+  { "id": "DE000145", "name": "Biedma", "provinceId": "24", "osm_id": 2657730 },
+  {
+    "id": "DE000146",
+    "name": "Cushamen",
+    "provinceId": "24",
+    "osm_id": 2658262
+  },
+  {
+    "id": "DE000147",
+    "name": "Escalante",
+    "provinceId": "24",
+    "osm_id": 2655765
+  },
+  {
+    "id": "DE000148",
+    "name": "Florentino Ameghino",
+    "provinceId": "24",
+    "osm_id": 2656645
+  },
+  {
+    "id": "DE000149",
+    "name": "Futaleufu",
+    "provinceId": "24",
+    "osm_id": 2658642
+  },
+  { "id": "DE000150", "name": "Gaiman", "provinceId": "24", "osm_id": 2656690 },
+  { "id": "DE000151", "name": "Gastre", "provinceId": "24", "osm_id": 2658020 },
+  {
+    "id": "DE000152",
+    "name": "Languineo",
+    "provinceId": "24",
+    "osm_id": 2658689
+  },
+  {
+    "id": "DE000153",
+    "name": "Martires",
+    "provinceId": "24",
+    "osm_id": 2656757
+  },
+  {
+    "id": "DE000154",
+    "name": "Paso De Indios",
+    "provinceId": "24",
+    "osm_id": 2658054
+  },
+  { "id": "DE000155", "name": "Rawson", "provinceId": "24", "osm_id": 2656705 },
+  {
+    "id": "DE000156",
+    "name": "Rio Senguer",
+    "provinceId": "24",
+    "osm_id": 2655834
+  },
+  {
+    "id": "DE000157",
+    "name": "Sarmiento",
+    "provinceId": "24",
+    "osm_id": 2655815
+  },
+  {
+    "id": "DE000158",
+    "name": "Tehuelches",
+    "provinceId": "24",
+    "osm_id": 2658684
+  },
+  { "id": "DE000159", "name": "Telsen", "provinceId": "24", "osm_id": 2657946 }
+]

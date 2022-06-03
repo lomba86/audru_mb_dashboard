@@ -1,0 +1,19 @@
+{
+  "name": "maps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async-af": "^7.0.39",
+    "function-rate-limit": "^1.1.0",
+    "node-fetch": "^2.6.0",
+    "promise-sequential": "^1.1.1",
+    "query-string": "^6.12.1",
+    "readline-sync": "^1.4.10"
+  }
+}

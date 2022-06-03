@@ -1,0 +1,45 @@
+.filter-bar {
+  background-color: $secondary-light;
+  border: none;
+  color: #fff;
+
+  & .ant-card-head {
+    padding: 0 0.7rem;
+    min-height: 0;
+    font-size: 1.4rem;
+    border: none;
+  }
+  & .ant-card-head-title {
+    color: #fff;
+    padding: 0.5rem 0;
+  }
+
+  & .ant-card-body {
+    padding: 0rem 0.7rem 1rem;
+  }
+
+  &__tag {
+    position: relative;
+    padding-right: 2.5rem;
+    background-color: $secondary;
+    color: #fff;
+    border: none;
+
+    & .anticon-close {
+      position: absolute;
+      top: 0.5rem;
+      right: 0.5rem;
+      color: #fff;
+    }
+  }
+  &__tag-value {
+    display: block;
+    font-size: 1.4rem;
+  }
+  &__tag-name {
+    display: block;
+    margin-top: -3px;
+    font-weight: 300;
+    opacity: 0.8;
+  }
+}

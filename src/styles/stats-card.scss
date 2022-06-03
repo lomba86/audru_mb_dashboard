@@ -1,0 +1,30 @@
+.stats-card {
+  margin-bottom: 1rem;
+
+  & > .ant-card-head {
+    padding: 0 1rem;
+    min-height: 0;
+  }
+
+  & .ant-card-head-title {
+    padding: 1rem 0;
+    color: $primary;
+  }
+  & .ant-card-body {
+    padding: 1rem;
+  }
+
+  &__title {
+    display: inline-block;
+    font-weight: 600;
+    font-size: 1.6rem;
+    vertical-align: baseline;
+  }
+  &__description {
+    display: inline-block;
+    vertical-align: baseline;
+    font-size: 1.4rem;
+    color: #909fac;
+    margin-left: 0.5rem;
+  }
+}

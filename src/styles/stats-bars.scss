@@ -1,0 +1,32 @@
+.stats-bars {
+  &__image {
+    width: 80%;
+    height: auto;
+  }
+
+  &__item {
+    padding: 0.5rem 0;
+  }
+
+  &__title {
+    display: block;
+    text-transform: uppercase;
+  }
+  &__value {
+    display: block;
+    text-align: right;
+  }
+
+  &__bar {
+    display: block;
+    width: 100%;
+    height: 0.5rem;
+    border-radius: 0.2rem;
+    background-color: #ccc;
+  }
+
+  &__bar-filled {
+    height: 100%;
+    display: block;
+  }
+}

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   style="enable-background:new"
+   version="1.1"
+   id="svg7178"
+   viewBox="0 0 22 21.999218"
+   height="6.2086682mm"
+   width="6.208889mm"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="icon-wrench.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1360"
+     inkscape:window-height="717"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="10.727654"
+     inkscape:cx="1.258821"
+     inkscape:cy="10.999609"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7178" />
+  <defs
+     id="defs7180">
+    <filter
+       id="filter7214"
+       style="color-interpolation-filters:sRGB">
+      <feBlend
+         id="feBlend7216"
+         in2="BackgroundImage"
+         mode="multiply" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata7183">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-551.55765,-681.66177)"
+     style="opacity:0.98000004;"
+     id="layer1">
+    <g
+       transform="matrix(0.69196562,0,0,-0.69196562,553.92769,702.016)"
+       id="g6935"
+       style="">
+      <path
+         id="path6937"
+         style="fill:#d25996;fill-opacity:1;fill-rule:nonzero;stroke:none;"
+         d="M 0,0 C 0.609,0.001 1.088,0.465 1.092,1.057 1.096,1.657 0.591,2.167 -0.004,2.164 -0.6,2.161 -1.108,1.645 -1.098,1.053 -1.089,0.47 -0.598,-0.001 0,0 m 20.816,13.493 c -1.038,0.005 -1.822,0.144 -2.564,0.484 -0.9,0.413 -1.208,0.355 -1.899,-0.377 C 14.07,11.182 11.787,8.763 9.507,6.342 7.096,3.783 4.69,1.221 2.279,-1.336 1.316,-2.357 0.033,-2.638 -1.28,-2.131 c -1.267,0.489 -2.111,1.72 -2.144,3.062 -0.025,1.031 0.384,1.826 1.132,2.518 1.904,1.763 3.779,3.558 5.667,5.338 3.072,2.896 6.146,5.791 9.219,8.687 0.6,0.565 0.709,0.918 0.382,1.668 -1.881,4.319 1.441,9.537 5.903,10.225 1.274,0.196 2.395,-0.219 3.382,-1.03 0.23,-0.189 0.146,-0.314 -0.021,-0.48 -1.144,-1.141 -2.278,-2.294 -3.428,-3.429 -0.231,-0.228 -0.326,-0.434 -0.256,-0.773 0.212,-1.026 0.387,-2.061 0.56,-3.095 0.039,-0.232 0.12,-0.342 0.366,-0.383 1.103,-0.187 2.204,-0.391 3.303,-0.601 0.227,-0.043 0.352,0.071 0.489,0.208 1.15,1.153 2.301,2.304 3.453,3.454 0.327,0.327 0.346,0.328 0.644,-0.037 0.97,-1.19 1.235,-2.541 0.784,-3.99 -0.956,-3.074 -3.091,-4.872 -6.197,-5.568 -0.448,-0.1 -0.906,-0.156 -1.142,-0.15" />
+    </g>
+  </g>
+</svg>

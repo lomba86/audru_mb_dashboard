@@ -1,0 +1,18 @@
+html,
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.ant-btn-primary {
+  background-color: $button-primary;
+  border: none;
+
+  &:hover,
+  &:focus {
+    background-color: $button-primary-hover;
+  }
+}
+
+.page {
+  background-color: #fff;
+}

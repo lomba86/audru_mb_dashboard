@@ -1,0 +1,51 @@
+.total-result {
+  display: inline-block;
+  position: relative;
+  padding-left: 4rem;
+  text-align: left;
+
+  &__icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 3.2rem;
+    height: auto;
+  }
+  &--car &__icon {
+    top: 0.3rem;
+  }
+
+  &__label {
+    display: inline-block;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 1.6rem;
+    line-height: 0.9em;
+    margin-top: 0.8rem;
+  }
+  &--car &__label {
+    color: #7ed3cb;
+  }
+  &--mercedes-gear &__label {
+    color: #000;
+  }
+  &--world &__label {
+    color: #61c447;
+  }
+
+  &__data {
+    display: block;
+    text-align: right;
+    margin-top: -0.3rem;
+  }
+  &__subtext {
+    vertical-align: top;
+    font-size: 1.3rem;
+  }
+  &__number {
+    vertical-align: top;
+    font-size: 3rem;
+    font-weight: 300;
+    line-height: 0.95em;
+  }
+}

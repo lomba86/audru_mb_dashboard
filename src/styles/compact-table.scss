@@ -1,0 +1,19 @@
+.compact-table {
+  .ant-table-tbody > tr > td {
+    padding-top: 0.8rem;
+    padding-bottom: 0.8rem;
+  }
+
+  &__indicator {
+    display: inline-block;
+    vertical-align: middle;
+    width: 1.4rem;
+    height: 1.4rem;
+    margin-right: 0.5rem;
+  }
+
+  &__name {
+    display: inline-block;
+    vertical-align: middle;
+  }
+}
