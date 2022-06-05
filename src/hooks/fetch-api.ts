@@ -1,6 +1,6 @@
 import useFetch from 'use-http';
 
-const API_BASE_URL = 'https://mercedes-benz.audru.com.ar';
+const API_BASE_URL = 'http://daimler.audru.com.ar';
 
 const useFetchApi = () => {
   const { get, post, response } = useFetch(API_BASE_URL, {
